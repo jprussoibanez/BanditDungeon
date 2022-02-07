@@ -46,5 +46,10 @@
     "ProjectSettings/": true,
     "temp/": true,
     "Temp/": true
-  }
+  },
+  "editor.rulers": [99],
+  "cSpell.words": [
+    "cref",
+    "Mathf"
+  ]
 }
